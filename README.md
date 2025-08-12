@@ -21,5 +21,5 @@ This project analyzes hotel booking data from 2015 to 2017, focusing on cancella
 - `screenshots/dashboard.png` – Dashboard preview
 
 ## 📷 Screenshot
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/Screenshot 2025-07-28 010343.jpg)
 
