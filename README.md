@@ -18,8 +18,5 @@ This project analyzes hotel booking data from 2015 to 2017, focusing on cancella
 ## 📂 Files in This Repository
 - `Hotel_Booking_Cancellations.xlsx` – The Excel dashboard
 - `data/hotel_bookings.csv` – Source dataset
-- `screenshots/dashboard.png` – Dashboard preview
-
-## 📷 Screenshot
-![Dashboard Preview](screenshots/Screenshot 2025-07-28 010343.jpg)
+- `screenshots/ – Dashboard preview
 
